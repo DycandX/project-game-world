@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e711966e95f8e8a4fa1d49b8791803a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {fileID: 3520940067351234561, guid: ea1fcee64213fe34fbcaa33772962be9, type: 3}
+  - panelSelesai: {fileID: 1137658553986543253, guid: 66efa4ab160f16d419a534d91cecc957, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

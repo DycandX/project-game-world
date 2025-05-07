@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 696705dcc4852fe4c83a4b91a1a51f3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitSound: {fileID: 8300000, guid: 81a0d3ea33712fe4488486b027d0a225, type: 3}
+  - timerText: {fileID: 3520940067351234561, guid: ea1fcee64213fe34fbcaa33772962be9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

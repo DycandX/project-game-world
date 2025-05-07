@@ -1,0 +1,71 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Visual Studio / JetBrains IDE
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.suo
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Cache & Packages
+*.unitypackage
+*.unitypackage.meta
+sysinfo.txt
+.crashlytics-build.properties
+
+# Platform-specific builds
+*.apk
+*.aab
+*.app
+
+# JetBrains Rider
+Assets/Plugins/Editor/JetBrains*
+
+# Gradle & Android
+.gradle/
+*.apk
+*.aab
+*.dex
+*.jar
+*.apk.meta
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+
+# Ignore asset store tools if desired
+# Assets/AssetStoreTools*
+
+# Crash logs and debug
+*.log
+
+# Windows-specific: prevent path too long issues (Windows max path = 260)
+# Git workaround (for Windows): avoid checking in deeply nested folders like Library/
+# You should still enable long paths support in Git config if needed:
+# git config --system core.longpaths true
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
